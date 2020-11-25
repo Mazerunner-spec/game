@@ -15,4 +15,8 @@
 
 # The code were compiled using IDLE (Python 3.8 32.bit)
 
+# PROJECT STATUS
+
+# The following warning must be clarified: "DeprecationWarning: an integer is required (got type float).  Implicit conversion to integers using __int__ is deprecated, and may be removed in a future version of Python"
+
 
